@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/elrizal/Hangman-CLI#readme",
   "dependencies": {
+    "keypress": "^0.2.1",
     "prompt": "^1.0.0"
   },
   "devDependencies": {}
